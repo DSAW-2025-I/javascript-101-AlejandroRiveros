@@ -1,3 +1,4 @@
+//Alejandro Riveros
 // Sum of Two Numbers
 function sum(a, b) {
   if (typeof a !== "number" || typeof b !== "number") {
